@@ -19,6 +19,16 @@
       "permissionsUsed": [
         "documents.read"
       ]
+    },
+    {
+      "id": "cd15",
+      "question": "As férias são remuneradas?",
+      "answer": "Sim são remuneradas",
+      "timestamp": "2025-07-21T12:46:09.940Z",
+      "permissionsUsed": [
+        "documents.read",
+        "calendar.read"
+      ]
     }
   ]
 }
