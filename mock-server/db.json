@@ -1,20 +1,24 @@
 {
-    "users": [
-      {
-        "id": "user-123",
-        "email": "teste@ego.dev",
-        "name": "Usuário Teste",
-        "permissions": ["documents.read", "calendar.read"]
-      }
-    ],
-    "history": [
-      {
-        "id": "hist-1",
-        "question": "Qual a política de férias da empresa?",
-        "answer": "Cada funcionário tem direito a 30 dias de férias por ano.",
-        "timestamp": "2025-07-14T13:00:00Z",
-        "permissionsUsed": ["documents.read"]
-      }
-    ]
-  }
-  
+  "users": [
+    {
+      "id": "user-123",
+      "email": "teste@ego.dev",
+      "name": "Usuário Teste",
+      "permissions": [
+        "documents.read",
+        "calendar.read"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "hist-1",
+      "question": "Qual a política de férias da empresa?",
+      "answer": "Cada funcionário tem direito a 30 dias de férias por ano.",
+      "timestamp": "2025-07-14T13:00:00Z",
+      "permissionsUsed": [
+        "documents.read"
+      ]
+    }
+  ]
+}
